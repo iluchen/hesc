@@ -1,7 +1,7 @@
 {
   "name": "hesc-ui",
-  "version": "0.0.1",
-  "description": "A Component Library for Vue.js modify by ",
+  "version": "1.0.0",
+  "description": "A Component Library for Vue.js modify by Hesc",
   "main": "lib/hesc-ui.common.js",
   "files": [
     "lib",
