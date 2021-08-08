@@ -49,9 +49,9 @@
 </template>
 
 <script>
-import Popup from 'element-ui/src/utils/popup';
-import emitter from 'element-ui/src/mixins/emitter';
-import Utils from 'element-ui/src/utils/aria-utils';
+import Popup from 'hesc-ui/src/utils/popup';
+import emitter from 'hesc-ui/src/mixins/emitter';
+import Utils from 'hesc-ui/src/utils/aria-utils';
 
 export default {
   name: 'ElDrawer',

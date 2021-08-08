@@ -101,9 +101,9 @@
 </template>
 
 <script type="text/babel">
-  import { getRangeHours, getRangeMinutes, modifyTime } from 'element-ui/src/utils/date-util';
-  import ElScrollbar from 'element-ui/packages/scrollbar';
-  import RepeatClick from 'element-ui/src/directives/repeat-click';
+  import { getRangeHours, getRangeMinutes, modifyTime } from 'hesc-ui/src/utils/date-util';
+  import ElScrollbar from 'hesc-ui/packages/scrollbar';
+  import RepeatClick from 'hesc-ui/src/directives/repeat-click';
 
   export default {
     components: { ElScrollbar },

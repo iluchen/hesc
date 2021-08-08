@@ -79,13 +79,13 @@
 </template>
 
 <script type="text/babel">
-  import Popup from 'element-ui/src/utils/popup';
-  import Locale from 'element-ui/src/mixins/locale';
-  import ElInput from 'element-ui/packages/input';
-  import ElButton from 'element-ui/packages/button';
-  import { addClass, removeClass } from 'element-ui/src/utils/dom';
-  import { t } from 'element-ui/src/locale';
-  import Dialog from 'element-ui/src/utils/aria-dialog';
+  import Popup from 'hesc-ui/src/utils/popup';
+  import Locale from 'hesc-ui/src/mixins/locale';
+  import ElInput from 'hesc-ui/packages/input';
+  import ElButton from 'hesc-ui/packages/button';
+  import { addClass, removeClass } from 'hesc-ui/src/utils/dom';
+  import { t } from 'hesc-ui/src/locale';
+  import Dialog from 'hesc-ui/src/utils/aria-dialog';
 
   let messageBox;
   let typeMap = {

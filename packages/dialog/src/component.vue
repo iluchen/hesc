@@ -48,9 +48,9 @@
 </template>
 
 <script>
-import Popup from 'element-ui/src/utils/popup';
-import Migrating from 'element-ui/src/mixins/migrating';
-import emitter from 'element-ui/src/mixins/emitter';
+import Popup from 'hesc-ui/src/utils/popup';
+import Migrating from 'hesc-ui/src/mixins/migrating';
+import emitter from 'hesc-ui/src/mixins/emitter';
 
 export default {
   name: 'ElDialog',

@@ -1,4 +1,4 @@
-export * from './element-ui'
+export * from './hesc-ui';
 
-import * as ElementUI from './element-ui'
-export default ElementUI
+import * as ElementUI from './hesc-ui';
+export default ElementUI;

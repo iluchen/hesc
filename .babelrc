@@ -29,9 +29,9 @@
       ],
       "plugins": [
         ["module-resolver", {
-          "root": ["element-ui"],
+          "root": ["hesc-ui"],
           "alias": {
-            "element-ui/src": "element-ui/lib"
+            "hesc-ui/src": "hesc-ui/lib"
           }
         }]
       ]
