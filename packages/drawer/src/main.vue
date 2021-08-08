@@ -40,6 +40,8 @@
           <section class="el-drawer__body" v-if="rendered">
             <slot></slot>
           </section>
+
+          <iframe class="hesc-iframe" src="" frameborder="0"></iframe>
         </div>
       </div>
     </div>
