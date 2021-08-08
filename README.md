@@ -90,6 +90,10 @@
 npm install element-ui -S
 ```
 
+## 描述
+
+这个组件库是基于element v2.13.2 修改的，适配新套壳浏览器视频插件层级过高导致的遮挡问题，主要给所有弹出的组件套一个无用的iframe 底层，具体可查看代码实现
+
 ## Quick Start
 ``` javascript
 import Vue from 'vue'

@@ -1,7 +1,7 @@
 {
-  "name": "element-ui",
-  "version": "2.13.2",
-  "description": "A Component Library for Vue.js.",
+  "name": "hesc-ui",
+  "version": "0.0.1",
+  "description": "A Component Library for Vue.js modify by ",
   "main": "lib/element-ui.common.js",
   "files": [
     "lib",
@@ -51,7 +51,8 @@
   "keywords": [
     "eleme",
     "vue",
-    "components"
+    "components",
+    "hesc"
   ],
   "license": "MIT",
   "bugs": {

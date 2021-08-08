@@ -31,6 +31,7 @@
   }
 
   @include e(header) {
+    @include hesc-iframe-wrap;
     padding: $--dialog-padding-primary;
     padding-bottom: 10px;
   }
@@ -64,6 +65,7 @@
   }
 
   @include e(body) {
+    @include hesc-iframe-wrap;
     padding: ($--dialog-padding-primary + 10px) $--dialog-padding-primary;
     color: $--color-text-regular;
     font-size: $--dialog-content-font-size;
@@ -71,6 +73,7 @@
   }
 
   @include e(footer) {
+    @include hesc-iframe-wrap;
     padding: $--dialog-padding-primary;
     padding-top: 10px;
     text-align: right;
