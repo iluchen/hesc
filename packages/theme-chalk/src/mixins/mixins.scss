@@ -65,6 +65,11 @@
   }
 }
 
+@mixin hesc-iframe-wrap {
+  position: relative;
+  z-index: 999;
+}
+
 /* BEM
  -------------------------- */
 @mixin b($block) {
