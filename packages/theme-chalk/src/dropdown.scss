@@ -75,6 +75,7 @@
   box-shadow: $--dropdown-menu-box-shadow;
 
   @include e(item) {
+    @include hesc-iframe-wrap;
     list-style: none;
     line-height: 36px;
     padding: 0 20px;

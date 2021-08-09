@@ -2,6 +2,7 @@
   <transition name="el-zoom-in-top" @after-leave="doDestroy">
     <ul class="el-dropdown-menu el-popper" :class="[size && `el-dropdown-menu--${size}`]" v-show="showPopper">
       <slot></slot>
+      <iframe class="hesc-iframe" src="" frameborder="0"></iframe>
     </ul>
   </transition>
 </template>
