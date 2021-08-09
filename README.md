@@ -14,9 +14,9 @@ npm install hesc-ui -S
 ## Quick Start
 ``` javascript
 import Vue from 'vue'
-import Element from 'hesc-ui'
+import HescUI from 'hesc-ui'
 
-Vue.use(Element)
+Vue.use(HescUI)
 
 // or
 import {
